@@ -1,3 +1,5 @@
+tulis seperlunya aja
+
 Nama Class: Orang
 State (variabel):
 - tahunUmur (variabel private)
