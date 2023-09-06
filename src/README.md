@@ -3,7 +3,7 @@ State (variabel):
 - tahunUmur (variabel private)
 Behavior (metode/fungsi):
 - hitungUmur (metode tanpa parameter)
-Jenis behavior: Fungsi (method)
+Jenis behavior: Prosedur (method)
 Penjelasan:
 State (variabel):
 tahunUmur adalah variabel private bertipe int dengan nilai tetap 32.
